@@ -23,4 +23,4 @@
   
   1. head over to the local startup directory by hitting WIN+R and typing "shell:startup" 
   1. Delete G3_Launcher.bat
-  1. Delete vcsUpdater, hydra.exe and hydra.png
+  1. Delete vcsUpdater, hydra.exe and hydra.png (where you first executed hydra.exe)
