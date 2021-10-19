@@ -1,5 +1,4 @@
-# elec42.github.io
-by Felix Kröhnert
+# elec42.github.io\by Felix Kröhnert
 
 ## Projects:
 [Hydra / HydraV2](https://elec42.github.io/HYDRA)\
