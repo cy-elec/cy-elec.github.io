@@ -1,4 +1,3 @@
-# Elec42
 ## Projects
      
 * [Hydra / HydraV2](https://elec42.github.io/hydra)
