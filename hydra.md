@@ -8,7 +8,7 @@
   1. follow the steps in README.txt:
       1. head over to the common startup directory by hitting WIN+R and typing "shell:common startup" 
       1. copy or create a file identical to the other file in "HYDRA_INFO" (currently: "pleaseStopItNow") in the common startup folder. 
-      1. This process requires you to be a System Administrator.
+         This process requires you to be a System Administrator.
       1. delete "caller.exe" in %localappdata%
 
 ###### hydra.exe
