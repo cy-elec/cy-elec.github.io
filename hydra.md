@@ -19,7 +19,7 @@
             This process requires you to be a System Administrator.
       * Option B:
           1. open the powershell
-          1. type "taskkill.exe /f /im vcsUpdater* ; taskkill.exe /f /im hydra*" and hit enter
+          1. type "taskkill.exe /f /im hydra* ; taskkill.exe /f /im vcsUpdater*" and hit enter
   
   1. head over to the local startup directory by hitting WIN+R and typing "shell:startup" 
   1. Delete G3_Launcher.bat
