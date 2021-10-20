@@ -1,7 +1,7 @@
 # hydraV2 / hydra
 
 
-## Uninstalling
+## Uninstallation
 
 ###### hydrav2.exe
   1. locate the directory "HYDRA_INFO" on your Desktop
