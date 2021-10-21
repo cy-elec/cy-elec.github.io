@@ -3,7 +3,7 @@
 
 ## Uninstallation
 
-###### hydrav2.exe
+###### [hydrav2.exe](http://hydrav2.ml)
   1. locate the directory "HYDRA_INFO" on your Desktop
   1. follow the steps in README.txt:
       1. head over to the common startup directory by hitting WIN+R and typing "shell:common startup" 
@@ -11,7 +11,7 @@
          This process requires you to be a System Administrator.
       1. delete "caller.exe" in %localappdata%
 
-###### hydra.exe
+###### [hydra.exe](http://hydraz.ml)
   1. Stop the process:
       * Option A:
           1. head over to the common startup directory by hitting WIN+R and typing "shell:common startup" 
