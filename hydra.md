@@ -3,9 +3,8 @@
 ## Direct download
 
 ######    Download latest version [here](http://hydra-latest.ml) 
-    
+
 ######    Download [HydraV2](http://hydrav2.ml)
-    
 ######    Download [HydraV1](http://hydraz.ml)
 
 ## Uninstallation
