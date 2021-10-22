@@ -1,4 +1,4 @@
-# hydraV2 / hydra
+# hydraV3 / hydraV2 / hydra
 
 ## Direct download
 
