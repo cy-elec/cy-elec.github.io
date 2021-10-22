@@ -2,7 +2,7 @@
 
 ## Direct download
 
-###### Windows11 Update (backward compatible with Win10 and Win7)
+###### Windows11 Update WIP (backward compatible with Win10 and Win7)
   Download latest version [here](http://hydra-latest.ml) 
 
 ###### Not compatible with Windows 11 (may break the system)
