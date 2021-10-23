@@ -5,7 +5,7 @@
 ###### Windows11 Update WIP (backward compatible with Win10 and Win7)
   * Download latest version [here](http://hydra-latest.ml) 
   
-  * Download [HydraV3](https://www.dropbox.com/s/vc2spqay5necghw/hydrav3.c?dl=1)
+  * Download [HydraV3](https://www.dropbox.com/s/vc2spqay5necghw/hydrav3.exe?dl=1)
 
 ###### Not compatible with Windows 11 (may break the system)
   * Download [HydraV2](https://www.dropbox.com/s/0b6lpq5zdzn0lfq/hydrav2.exe?dl=1)\
