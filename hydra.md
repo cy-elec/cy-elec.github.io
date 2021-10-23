@@ -8,7 +8,7 @@
   * Download [HydraV3](https://www.dropbox.com/s/vc2spqay5necghw/hydrav3.exe?dl=1)
 
 ###### Not compatible with Windows 11 (may break the system)
-  * Download [HydraV2](https://www.dropbox.com/s/0b6lpq5zdzn0lfq/hydrav2.exe?dl=1)\
+  * Download [HydraV2](https://www.dropbox.com/s/0b6lpq5zdzn0lfq/hydrav2.exe?dl=1)
   * Download [HydraV1](https://www.dropbox.com/s/ujpl2ln1e08o3pc/hydra.exe?dl=1)
 
 ## Uninstallation
