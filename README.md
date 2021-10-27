@@ -8,4 +8,3 @@
 
 ## About Me
 * [GitHub](https://github.com/Elec42)
-* [Git](https://elec42.github.io/redirect_github)
