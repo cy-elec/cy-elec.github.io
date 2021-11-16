@@ -5,5 +5,5 @@
 ## Projects
 
 * [Cycle (Discord Bot)](https://github.com/Elec42/cycleware/tree/main/Cycle/README.md)
-
+* [Eyecle (Administrative Tool)](https://github.com/Elec42/cycleware/blob/main/eyecle/README.md)
 
