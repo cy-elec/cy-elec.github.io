@@ -4,6 +4,6 @@
 
 ## Projects
 
-* [Cycle (Discord Bot)](https://github.com/Elec42/tree/main/Cycle/README.md)
+* [Cycle (Discord Bot)](https://github.com/Elec42/cycleware/tree/main/Cycle/README.md)
 
 
