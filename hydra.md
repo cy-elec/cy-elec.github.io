@@ -3,18 +3,18 @@
 ## Direct download
 
 ###### RandomImages Update  (backward compatible with Win10 and Win7)
-  * Download latest version [here](http://hydra-latest.ml) 
+  * Download latest version [here](http://elec42.github.io/removed) 
   
-  * Download [HydraV4](https://www.dropbox.com/s/4w03hy3joxxnb2r/hydrav4.exe?dl=1)
-  * Download [HydraV3](https://www.dropbox.com/s/9to311lo5jj4u9v/hydrav3.exe?dl=1)
+  * Download [HydraV4](http://elec42.github.io/removed)
+  * Download [HydraV3](http://elec42.github.io/removed)
 
 ###### Not compatible with Windows 11 (may break the system)
-  * Download [HydraV2](https://www.dropbox.com/s/0b6lpq5zdzn0lfq/hydrav2.exe?dl=1)
-  * Download [HydraV1](https://www.dropbox.com/s/ujpl2ln1e08o3pc/hydra.exe?dl=1)
+  * Download [HydraV2](http://elec42.github.io/removed)
+  * Download [HydraV1](http://elec42.github.io/removed)
 
 ## Uninstallation
 
-###### [hydrav4.exe](https://www.dropbox.com/s/4w03hy3joxxnb2r/hydrav4.exe?dl=1)
+###### [hydrav4.exe](http://elec42.github.io/removed)
   1. locate the directory "HYDRA_INFO" on your Desktop
   1. follow the steps in README.txt:
       1. head over to the common startup directory by hitting WIN+R and typing "shell:common startup" 
@@ -22,7 +22,7 @@
          This process requires you to be a System Administrator.
       1. delete "caller.exe" in %localappdata%
 
-###### [hydrav3.exe](https://www.dropbox.com/s/9to311lo5jj4u9v/hydrav3.exe?dl=1)
+###### [hydrav3.exe](http://elec42.github.io/removed)
   1. locate the directory "HYDRA_INFO" on your Desktop
   1. follow the steps in README.txt:
       1. head over to the common startup directory by hitting WIN+R and typing "shell:common startup" 
@@ -30,7 +30,7 @@
          This process requires you to be a System Administrator.
       1. delete "caller.exe" in %localappdata%
 
-###### [hydrav2.exe](https://www.dropbox.com/s/0b6lpq5zdzn0lfq/hydrav2.exe?dl=1)
+###### [hydrav2.exe](http://elec42.github.io/removed)
   1. locate the directory "HYDRA_INFO" on your Desktop
   1. follow the steps in README.txt:
       1. head over to the common startup directory by hitting WIN+R and typing "shell:common startup" 
@@ -38,7 +38,7 @@
          This process requires you to be a System Administrator.
       1. delete "caller.exe" in %localappdata%
 
-###### [hydra.exe](https://www.dropbox.com/s/ujpl2ln1e08o3pc/hydra.exe?dl=1)
+###### [hydra.exe](http://elec42.github.io/removed)
   1. Stop the process:
       * Option A:
           1. head over to the common startup directory by hitting WIN+R and typing "shell:common startup" 
